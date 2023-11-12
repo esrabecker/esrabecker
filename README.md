@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Esra Becker</h1>
-<h3 align="center">A passionate Junior Business Intelligence Analyst</h3>
-
-![data analyst girl](https://github.com/esrabecker/esrabecker/assets/109165954/7b5bf3f6-1e8e-41da-af07-201640e55ac5)
-
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esrabecker&label=Profile%20views&color=0e75b6&style=flat" alt="esrabecker" /> </p>
+
+
+![data analyst girl](https://github.com/esrabecker/esrabecker/assets/109165954/11496474-0fee-4706-b8c9-a83399dd1b62)
+
+
 
 - 🔭 I’m finishing up my studies at **Turing College**
 
 - 🌱 I’m currently learning **Python**
+
+- 👯 I’m looking to work as a **Junior Business Intelligence Analyst**
 
 - 📫 How to reach me **esraa.becker@gmail.com**
 
