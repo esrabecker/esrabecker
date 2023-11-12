@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Esra Becker</h1>
 <h3 align="center">A passionate Junior Business Intelligence Analyst</h3>
 
-                      ![data analyst girl](https://github.com/esrabecker/esrabecker/assets/109165954/be7902a3-f3bc-42ea-964d-9ac30523b434)
+![data analyst girl](https://github.com/esrabecker/esrabecker/assets/109165954/be7902a3-f3bc-42ea-964d-9ac30523b434)
 
 
 
