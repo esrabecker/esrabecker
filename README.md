@@ -3,6 +3,12 @@
 <h1 align="center">Hi 👋, I'm Esra Becker</h1>
 <h3 align="center">A passionate Junior Business Intelligence Analyst</h3>
 
+![data gif](https://github.com/esrabecker/esrabecker/assets/109165954/de1c3551-3567-4958-b6fe-d4b798c4b06c)
+
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esrabecker&label=Profile%20views&color=0e75b6&style=flat" alt="esrabecker" /> </p>
 
 - 🔭 I’m finishing up my studies at **Turing College**
