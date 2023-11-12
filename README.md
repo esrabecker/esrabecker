@@ -47,6 +47,10 @@
   <a href="https://analytics.google.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" alt="google-analytics" width="80" height="40"/>
   </a>
+  <a href="https://looker.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Looker%20Studio-3498DB?style=for-the-badge&logo=looker&logoColor=white" alt="looker" width="120" height="40"/>
+  </a>
+  <!-- Add more badges as needed -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
@@ -66,6 +70,7 @@
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" width="60" height="40"/>
   </a>
 </p>
+
 
 
 
