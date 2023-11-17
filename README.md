@@ -3,15 +3,25 @@
 
 
 ![data analyst girl](https://github.com/esrabecker/esrabecker/assets/109165954/11496474-0fee-4706-b8c9-a83399dd1b62)
+Hello! I'm Esra, a recent graduate from Turing College with a strong passion for data analytics and business intelligence. Currently focused on mastering Python and leveraging data visualization tools like Tableau to extract meaningful insights from diverse datasets.
 
+### 🔭 I’m currently...
 
-- 🔭 I’m finishing up my studies at **Turing College**
+- Completing my studies at Turing College, diving deep into the world of data science.
+- Learning and honing my skills in Python, aiming to apply data-driven solutions to real-world problems.
 
-- 🌱 I’m currently learning **Python**
+### 👯 I’m looking to...
 
-- 👯 I’m looking to work as a **Junior Business Intelligence Analyst**
+- Launch my career as a Junior Business Intelligence Analyst.
+- Collaborate on projects that involve data analysis, visualization, and insightful decision-making.
 
-- 👨‍💻 All of my BI projects are available at [https://public.tableau.com/app/profile/esra.becker/vizzes](https://public.tableau.com/app/profile/esra.becker/vizzes)
+### 🌱 My Skill Set
+
+- **Programming:** Python
+- **Data Analysis:** Pandas, NumPy
+- **Data Visualization:** Tableau, Looker Studio
+- **Database:** SQL
+- **Tools:** Jupyter Notebooks, Git
 
 
 
