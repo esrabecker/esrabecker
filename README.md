@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Esra Becker</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esrabecker&label=Profile%20views&color=0e75b6&style=flat" alt="esrabecker" /> </p>
 
 ![data analyst girl](https://github.com/esrabecker/esrabecker/assets/109165954/11496474-0fee-4706-b8c9-a83399dd1b62)
 
 
 
-                                                                     Hello! I'm Esra, a recent graduate from Turing College with a strong passion for data analytics and business intelligence. Currently focused on mastering Python and leveraging data visualization tools like Tableau to extract meaningful insights from diverse datasets.
+Hello! I'm Esra, a recent graduate from Turing College with a strong passion for data analytics and business intelligence. Currently focused on mastering Python and leveraging data visualization tools like Tableau to extract meaningful insights from diverse datasets.
 
 ### 🔭 I’m currently...
 
