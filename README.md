@@ -1,7 +1,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esrabecker&label=Profile%20views&color=0e75b6&style=flat" alt="esrabecker" /> </p>
 
-![data analyst girl](https://github.com/esrabecker/esrabecker/assets/109165954/11496474-0fee-4706-b8c9-a83399dd1b62)
+<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/2GU" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 
 
 
