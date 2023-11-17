@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Esra Becker</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esrabecker&label=Profile%20views&color=0e75b6&style=flat" alt="esrabecker" /> </p>
 
-[![Watch the GIF](https://i.gifer.com/2GU.gif)](https://i.gifer.com/2GU.gif)
+![Cat GIF](https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif)
 
  
 - 🌱 I’m currently learning **Payment / Monetisation Analysis and Python**
