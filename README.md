@@ -1,28 +1,15 @@
-<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/2GU" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+<h1 align="center">Hi 👋, I'm Esra Becker</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=esrabecker&label=Profile%20views&color=0e75b6&style=flat" alt="esrabecker" /> </p>
 
+- 🌱 I’m currently learning **Payment / Monetisation Analysis and Python**
 
+- 👯 I’m looking to launch my career as a **Junior Business Intelligence Analyst**
 
+- 👨‍💻 All of my BI projects are available at [https://public.tableau.com/app/profile/esra.becker/vizzes](https://public.tableau.com/app/profile/esra.becker/vizzes)
 
-Hello! I'm Esra, a recent graduate from Turing College with a strong passion for data analytics and business intelligence. Currently focused on mastering Python and leveraging data visualization tools like Tableau to extract meaningful insights from diverse datasets.
+- 💬 Ask me about **preparing insightful dashboards and data storytelling**
 
-### 🔭 I’m currently...
-
-- Completing my studies at Turing College, diving deep into the world of data science.
-- Learning and honing my skills in Python, aiming to apply data-driven solutions to real-world problems.
-
-### 👯 I’m looking to...
-
-- Launch my career as a Junior Business Intelligence Analyst.
-- Collaborate on projects that involve data analysis, visualization, and insightful decision-making.
-
-### 🌱 My Skill Set
-
-- **Programming:** Python
-- **Data Analysis:** Pandas, NumPy
-- **Data Visualization:** Tableau, Looker Studio
-- **Database:** SQL
-- **Tools:** Jupyter Notebooks, Git
-
+- ⚡ Fun fact **I'm proudly preparing to become the future's cat lady.I believe every great coder needs a furry coding companion!**
 
 
 <h3 align="left">Connect with me:</h3>
