@@ -3,7 +3,7 @@
 
 [![Watch the Video](https://i.gifer.com/2GU.gif)](https://i.gifer.com/2GU.mp4)
 
-
+ 
 - 🌱 I’m currently learning **Payment / Monetisation Analysis and Python**
 
 - 👯 I’m looking to launch my career as a **Junior Business Intelligence Analyst**
